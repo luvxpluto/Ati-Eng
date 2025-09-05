@@ -25,7 +25,7 @@ function App() {
     <img src={f2} alt="Team Avatar" loading="lazy" />
   </div>
   <h1>Hello! 👋</h1>
-  <h2 className="gradient-text">We are Amanda, Esteban, Jose & Cris</h2>
+  <h2 className="gradient-text">We are Amanda, Esteban, Jose & Cristian</h2>
   <p>IT Managers | Data Analysts | Software Developers | UX–UI Designers</p>
   <p className="small">You can reach out to us via email and LinkedIn</p>
 
@@ -133,6 +133,13 @@ function App() {
       <section id="skills" className="section">
         <h2>Skills</h2>
         <div className="tags">
+          <span>System Design</span>
+          <span>Scrum</span>
+          <span>Agile</span>
+          <span>Team Work</span>
+          <span>Comunication</span>
+          <span>Trello</span>
+          <span>Jira</span>
           <span>Python</span>
           <span>TypeScript</span>
           <span>React</span>
